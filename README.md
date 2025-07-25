@@ -1,5 +1,6 @@
+```python
 # basari_olcer
-2.proje denemem
+#2.proje denemem
 sorular=[{"Türkiyenin baskenti neresidir?":"Ankara"},{"En çok nüfus olan il neresidir?":"Istanbul"},{"Fizik sayisal bir ders midir?":"Evet"}]
 def quiz():
     while True:
@@ -30,3 +31,4 @@ def quiz():
                     l.write("\n"+k)
             
 quiz()
+```
